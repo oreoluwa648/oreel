@@ -1,0 +1,1 @@
+export const useStellar = () => null
